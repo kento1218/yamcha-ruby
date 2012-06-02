@@ -1,0 +1,5 @@
+= yamcha-ruby
+
+== DESCRIPTION
+
+Ruby binding for {YamCha}[http://github.com/kento1218/yamcha]
