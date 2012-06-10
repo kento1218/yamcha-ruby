@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email = ["kento@bht-tech.net"]
   s.extensions = ["ext/YamCha/extconf.rb"]
   s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.rdoc"]
-  s.files = ["History.txt", "Manifest.txt", "README.rdoc", "Rakefile", "ext/YamCha/YamCha_wrap.cpp", "ext/YamCha/chunker.cpp", "ext/YamCha/chunkersub.h", "ext/YamCha/common.h", "ext/YamCha/config.h", "ext/YamCha/darts.h", "ext/YamCha/extconf.rb", "ext/YamCha/feature_index.cpp", "ext/YamCha/feature_index.h", "ext/YamCha/libyamcha.cpp", "ext/YamCha/mmap.h", "ext/YamCha/param.cpp", "ext/YamCha/param.h", "ext/YamCha/svm.cpp", "ext/YamCha/yamcha.cpp", "ext/YamCha/yamcha.h", "lib/yamcha-ruby.rb", "script/console", "script/destroy", "script/generate", "tasks/extconf.rake", "tasks/extconf/YamCha.rake", "test/test_YamCha_extn.rb", "test/test_helper.rb", "test/test_yamcha-ruby.rb", ".gemtest"]
+  s.files = ["History.txt", "Manifest.txt", "README.rdoc", "Rakefile", "ext/YamCha/YamCha_wrap.cpp", "ext/YamCha/chunker.cpp", "ext/YamCha/chunkersub.h", "ext/YamCha/common.h", "ext/YamCha/config.h", "ext/YamCha/darts.h", "ext/YamCha/extconf.rb", "ext/YamCha/feature_index.cpp", "ext/YamCha/feature_index.h", "ext/YamCha/libyamcha.cpp", "ext/YamCha/mmap.h", "ext/YamCha/param.cpp", "ext/YamCha/param.h", "ext/YamCha/svm.cpp", "ext/YamCha/yamcha.cpp", "ext/YamCha/yamcha.h", "lib/yamcha-ruby.rb", "script/console", "script/destroy", "script/generate", "tasks/extconf.rake", "tasks/extconf/YamCha.rake", "test/test_YamCha_extn.rb", "test/test_helper.rb", "test/test_yamcha-ruby.rb"]
   s.rdoc_options = ["--main", "README.rdoc"]
   s.require_paths = ["lib", "ext/YamCha"]
   s.rubyforge_project = "yamcha-ruby"
